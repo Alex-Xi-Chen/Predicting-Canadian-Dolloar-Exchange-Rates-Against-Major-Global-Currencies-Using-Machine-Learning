@@ -1,11 +1,11 @@
-# ECE1513 ML Project – Predicting Canadian Dollar Exchange Rates
+# Predicting Canadian Dollar Exchange Rates Using Machine Learning
 
 Predicting Canadian Dollar (CAD) exchange rates against major global currencies (USD, EUR, CNY) using machine learning. Daily exchange-rate data is sourced from the **Bank of Canada Valet API**.
 
 ## Project Structure
 
 ```
-ECE1513-ML-Project/
+project/
 ├── main.py                    # Run the full pipeline (download → train → evaluate)
 ├── config.py                  # All hyperparameters & paths in one place
 ├── requirements.txt           # Python dependencies
